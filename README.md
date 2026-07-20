@@ -135,5 +135,7 @@ Para reproduzir os resultados:
 ## Autores
 
 **Félix Leonel Vasconcelos da Silva**
+
 **Ivanilton Reinato de Andrade**
+
 **Luis Eduardo Rasch**
