@@ -77,8 +77,8 @@ O pipeline experimental é composto pelas seguintes etapas:
 ### 1. Clone o repositório
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
-cd <NOME_DO_REPOSITORIO>
+git clone https://github.com/Felix-Leonel/T2-Trabalho-Final-PLN.git
+cd T2-Trabalho-Final-PLN
 ```
 
 ### 2. Instale as dependências
@@ -134,6 +134,6 @@ Para reproduzir os resultados:
 
 ## Autores
 
-**Félix Leonel V. da Silva**
+**Félix Leonel Vasconcelos da Silva**
 **Ivanilton Reinato de Andrade**
 **Luis Eduardo Rasch**
