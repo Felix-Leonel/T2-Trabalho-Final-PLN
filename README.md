@@ -134,8 +134,6 @@ Para reproduzir os resultados:
 
 ## Autores
 
-## Autores
-
 - Félix Leonel Vasconcelos da Silva
 - Ivanilton Reinato de Andrade
 - Luis Eduardo Rasch
